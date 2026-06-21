@@ -1,0 +1,11 @@
+# 请将游戏截图放入此文件夹
+
+# 截图命名建议（与 README.md 中的引用一致）：
+#   menu.png           - 主菜单 / 登录大厅
+#   single.png         - 单人模式游戏界面
+#   lan-host.png       - 局域网房主等待画面
+#   lan-dual.png       - 双人对战画面
+#   internet-create.png - 互联网创建房间
+#   gameover.png       - 游戏结束画面
+
+# 项目开源地址: https://github.com/baizh/tetris-online

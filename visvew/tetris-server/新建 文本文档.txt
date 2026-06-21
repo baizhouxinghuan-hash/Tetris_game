@@ -1,0 +1,4 @@
+cd
+ tetris-server
+javac WebSocketUtil.java RelayServer.java
+java RelayServer 3202

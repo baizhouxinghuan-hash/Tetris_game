@@ -1,6 +1,9 @@
-package com.game;
+package com.he.main;
+
+import com.he.view.StartMenu;
+
 /**
- * 程序入口，显示主菜单
+ * 程序唯一入口
  */
 public class Main {
     public static void main(String[] args) {

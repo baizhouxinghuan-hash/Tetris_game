@@ -1,0 +1,47 @@
+# ====== Java 编译产物 ======
+*.class
+*.jar
+*.war
+*.ear
+
+# 编译输出目录
+bin/
+out/
+build/
+target/
+
+# 编译临时文件
+sources.txt
+
+# ====== SQLite 本地数据库 ======
+*.db
+*.sqlite
+*.sqlite3
+
+# ====== 本地游戏存档 ======
+highscore.txt
+
+# ====== IDE 配置 ======
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ====== 操作系统 ======
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# ====== 日志 ======
+*.log
+logs/
+
+# ====== 打包产物 ======
+dist/
+*.zip
+*.tar.gz
